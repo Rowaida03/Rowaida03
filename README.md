@@ -17,5 +17,5 @@ My core tech stack includes AWS, Terraform, Docker, and Linux, and I’m current
 ---
 ### Featured Projects
 
-- ** [ECS Fargate Gatus Deployment](https://github.com/Rowaida03/gatus-ecs-project) **
+**[ECS Fargate Gatus Deployment](https://github.com/Rowaida03/gatus-ecs-project)**
 - Containerised ...
