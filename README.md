@@ -11,4 +11,5 @@ My core tech stack includes AWS, Terraform, Docker, and Linux, and I’m current
 
 ---
 
-# Featured Projects
+### Featured Projects
+
