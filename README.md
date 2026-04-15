@@ -22,6 +22,9 @@ I focus on building with the intention of creating efficient, production-ready i
 ![Static Badge](https://img.shields.io/badge/GIT-black)
 ![Static Badge](https://img.shields.io/badge/Python-yellow)
 ![Static Badge](https://img.shields.io/badge/Kubernetes-blue)
+![Static Badge](https://img.shields.io/badge/DynamoDB-pink)
+![Static Badge](https://img.shields.io/badge/Route53-purple)
+![Static Badge](https://img.shields.io/badge/CI%2FCD-teal)
 
 
 
