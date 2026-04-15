@@ -7,11 +7,21 @@ My name is Rowaida - a DevOps Engineer based in the UK.
 
 I focus on building with the intention of creating efficient, production-ready infrastructure that solves real world problems to deliver reliable, consistent value.
 
-### My core tech stack includes - AWS, Terraform, Docker, and Linux, and I’m currently expanding my skills in Kubernetes.
+### My core tech stack includes -
 
 ![Static Badge](https://img.shields.io/badge/Terraform-purple)
 ![Static Badge](https://img.shields.io/badge/Linux-grey)
 ![Static Badge](https://img.shields.io/badge/s3-green)
+![Static Badge](https://img.shields.io/badge/Docker-blue)
+![Static Badge](https://img.shields.io/badge/Iam-red)
+![Static Badge](https://img.shields.io/badge/Cloudwatch-red)
+![Static Badge](https://img.shields.io/badge/EC2-orange)
+![Static Badge](https://img.shields.io/badge/AWS-black)
+![Static Badge](https://img.shields.io/badge/VPC-grey)
+![Static Badge](https://img.shields.io/badge/ECR-orange)
+![Static Badge](https://img.shields.io/badge/GIT-black)
+![Static Badge](https://img.shields.io/badge/Python-yellow)
+![Static Badge](https://img.shields.io/badge/Kubernetes-blue)
 
 
 
