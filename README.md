@@ -1,8 +1,12 @@
-## Hi there 👋
+### Hi! Welcome to my Github Profile
 
 ---
-My name is Rowaida. I'm a DevOps Engineer based in the UK.
-I build scalable, automated, and production-ready systems.
+
+## About Me
+My name is Rowaida.
+I'm a DevOps Engineer based in the UK.
+
+
 My main tech stack includes AWS, Terraform, Docker, Linux and Kubernetes.
 
 
