@@ -48,5 +48,5 @@ This project shows how to deploy an application on AWS ECS Fargate using Terrafo
 
 This repository showcases a cloud networking architecture built on AWS, focusing on secure traffic flow and high availability.
 
-🌙 [Kubernetes Deployment Project]()
+🌙 [Kubernetes Deployment Project](https://github.com/Rowaida03/EKS-observability-project)
 
