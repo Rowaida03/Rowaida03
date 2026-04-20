@@ -44,9 +44,13 @@ I focus on building with the intention of creating efficient, production-ready i
 
 This project shows how to deploy an application on AWS ECS Fargate using Terraform and GitHub Actions. It demonstrates how to containerise an application using docker, push it Amazon ECR, and deployed to AWS using Iac with automated workflows.
 
+🌙 [Kubernetes Deployment Project](https://github.com/Rowaida03/EKS-observability-project)
+
+End-to-end DevOps project provisioning EKS on AWS with Terraform, containerising and deploying an application via CI/CD and GitOps (ArgoCD).
+Implements secure VPC architecture, dynamic DNS, TLS automation, and monitoring with Prometheus & Grafana.
+
 🌙 [Secure AWS architecture with ALB](https://github.com/Rowaida03/aws-alb-private-ec2-architecture)
 
 This repository showcases a cloud networking architecture built on AWS, focusing on secure traffic flow and high availability.
 
-🌙 [Kubernetes Deployment Project](https://github.com/Rowaida03/EKS-observability-project)
 
