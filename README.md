@@ -33,7 +33,7 @@ I focus on building with the intention of creating efficient, production-ready i
 
 ### What I'm currently working on :
 
-- Learning and applying Kubernetes concepts through completing a EKS based deployment on AWS 
+- Learning and applying Kubernetes concepts through completing an EKS based deployment on AWS 
 - Strengthening my understanding of container orchestration and scalable infrastructure
 
 ---
